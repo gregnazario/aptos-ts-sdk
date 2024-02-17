@@ -1,5 +1,5 @@
 ---
-permalink: /@aptos-labs
+permalink: /@aptos-labs/ts-sdk-1.7.0
 redirect_to:
-  - /@aptos-labs/ts-sdk-latest
+  - /@aptos-labs/ts-sdk-1.7.0
 ---
