@@ -1,5 +1,5 @@
 ---
 permalink: /@aptos-labs
 redirect_to:
-  - ./ts-sdk-latest
+  - /@aptos-labs/ts-sdk-latest
 ---
